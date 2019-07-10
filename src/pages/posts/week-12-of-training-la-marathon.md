@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 12 OF TRAINING: LA MARATHON'
 subtitle: ''
 date: 2019-03-24T07:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/12.png"
 content_img_path: ''
 excerpt: I originally wasn't going to run the LA Marathon because I didn't ...
 hide_header: false
