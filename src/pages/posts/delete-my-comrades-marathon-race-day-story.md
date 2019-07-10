@@ -3,7 +3,7 @@ template: post
 title: MY COMRADES MARATHON RACE DAY STORY
 subtitle: ''
 date: 2019-06-29T07:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/17.png"
 content_img_path: ''
 excerpt: ''
 hide_header: false
