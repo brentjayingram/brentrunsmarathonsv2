@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 5 OF TRAINING: WHEN YOU LOSE YOUR FLOW...'
 subtitle: ''
 date: 2019-01-30T08:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/6.png"
 content_img_path: ''
 excerpt: I was really thrown off in my training from traveling to and from Atlanta
   in a span of a weekend.
