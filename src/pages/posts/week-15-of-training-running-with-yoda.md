@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 15 OF TRAINING: RUNNING WITH YODA'
 subtitle: ''
 date: 2019-04-27T07:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/15.png"
 content_img_path: ''
 excerpt: ''
 hide_header: false
