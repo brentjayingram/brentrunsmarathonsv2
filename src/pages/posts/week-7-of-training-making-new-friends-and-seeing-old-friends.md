@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 7 OF TRAINING: MAKING NEW FRIENDS AND SEEING OLD FRIENDS'
 subtitle: ''
 date: 2019-02-08T08:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/8.png"
 content_img_path: ''
 excerpt: I met up with one of my best friends from college who does...
 hide_header: false
