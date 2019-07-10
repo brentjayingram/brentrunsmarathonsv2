@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 10: CRASHING AN 80''S 10K'
 subtitle: ''
 date: 2019-03-03T07:52:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/10.png"
 content_img_path: ''
 excerpt: This was a milestone in my ultramarathon training.
 hide_header: false
