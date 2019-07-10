@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 9 OF TRAINING: RUN WHEN IT''S COOL OUTSIDE'
 subtitle: ''
 date: 2019-02-23T08:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/9.png"
 content_img_path: ''
 excerpt: This weeks long run was roooooough!
 hide_header: false
