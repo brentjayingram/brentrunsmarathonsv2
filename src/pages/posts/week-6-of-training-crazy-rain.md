@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 6 OF TRAINING: CRAZY RAIN'
 subtitle: ''
 date: 2019-02-02T08:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/7.png"
 content_img_path: ''
 excerpt: Have you ever ran 20 miles during a torrential downpour where most of the
   streets are flooded? Yea, me neither…until today!
