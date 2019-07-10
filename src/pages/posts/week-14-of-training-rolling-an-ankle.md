@@ -2,7 +2,7 @@
 template: post
 title: 'WEEK 14 OF TRAINING: ROLLING AN ANKLE'
 subtitle: ''
-date: 2001-04-20T07:00:00Z
+date: 2019-04-20T07:00:00Z
 thumb_img_path: "/images/14.png"
 content_img_path: ''
 excerpt: This weekend I was mentally drained and exhausted.
