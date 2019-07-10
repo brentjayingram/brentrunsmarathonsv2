@@ -43,6 +43,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/week-13-of-training-1st-of-the-big-4.md
 - src/pages/posts/week-12-of-training-la-marathon.md
 - src/pages/posts/week-11-of-training-preventing-injuries.md
 - src/pages/posts/week-10-crashing-an-80-s-10k.md
@@ -50,7 +51,6 @@ pages:
 - src/pages/posts/week-2-of-training-falling-while-running-sucks.md
 - src/pages/posts/why-i-m-running-a-54-mile-long-marathon.md
 - src/pages/posts/week-15-of-training-running-with-yoda.md
-- src/pages/posts/week-13-of-training-1st-of-the-big-4.md
 - src/pages/posts/week-7-of-training-making-new-friends-and-seeing-old-friends.md
 - src/pages/posts/week-6-of-training-crazy-rain.md
 - src/pages/posts/week-5-of-training-when-you-lose-your-flow.md

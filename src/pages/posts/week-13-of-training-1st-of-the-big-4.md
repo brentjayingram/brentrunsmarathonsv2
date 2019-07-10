@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 13 OF TRAINING: 1ST OF THE BIG 4'
 subtitle: ''
 date: 2019-04-13T07:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/13.png"
 content_img_path: ''
 excerpt: ''
 hide_header: false
