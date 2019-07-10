@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: This is a short page about me and my work
-img_path: "/images/IMG_9232.jpg"
+img_path: ''
 menus:
   main:
     title: About
@@ -17,4 +17,4 @@ I was an avid runner in high school and in college and then I slowly dropped off
 
 In the most recent couple of years I picked up marathon running to help support causes that I support.
 
-I have a background in IT and in [website development](www.brentjingram.com "brentjingram.com") and running  helps keep me active and stay in touch with my surroundings in L.A. 
+I have a background in IT and in [website development](https://www.brentjingram.com/ "brentjingram.com") and running  helps keep me active and stay in touch with my surroundings in L.A.
