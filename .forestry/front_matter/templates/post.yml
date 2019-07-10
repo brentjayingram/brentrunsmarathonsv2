@@ -43,4 +43,5 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/week-1-of-training.md
 - src/pages/posts/delete-my-comrades-marathon-race-day-story.md
