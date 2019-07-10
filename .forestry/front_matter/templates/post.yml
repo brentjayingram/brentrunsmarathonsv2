@@ -43,6 +43,7 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/why-i-m-running-a-54-mile-long-marathon.md
 - src/pages/posts/week-15-of-training-running-with-yoda.md
 - src/pages/posts/week-13-of-training-1st-of-the-big-4.md
 - src/pages/posts/week-12-of-training-la-marathon.md
