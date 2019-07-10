@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 4 OF TRAINING: THAT ONE TIME I GOT CHASED BY 5 DOGS '
 subtitle: ''
 date: 2019-01-29T08:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/5.png"
 content_img_path: ''
 excerpt: I was in Georgia this past weekend to visit my sister and brother-in-law
   who just had twins.
