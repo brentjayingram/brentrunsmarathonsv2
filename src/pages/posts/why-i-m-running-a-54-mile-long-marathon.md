@@ -3,7 +3,7 @@ template: post
 title: Why I'm Running a 54 Mile Long Marathon
 subtitle: ''
 date: 2018-12-24T08:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/worldvision.png"
 content_img_path: ''
 excerpt: At a young age, my parents threw in the towel on their marriage. My mom struggled
   as a...
