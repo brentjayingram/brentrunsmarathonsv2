@@ -1,6 +1,6 @@
 ---
 template: post
-title: Delete MY COMRADES MARATHON RACE DAY STORY
+title: MY COMRADES MARATHON RACE DAY STORY
 subtitle: ''
 date: 2019-06-29T07:00:00Z
 thumb_img_path: ''
