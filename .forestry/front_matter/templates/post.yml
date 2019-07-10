@@ -43,5 +43,6 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/week-2-of-training-falling-while-running-sucks.md
 - src/pages/posts/week-1-of-training.md
 - src/pages/posts/delete-my-comrades-marathon-race-day-story.md
