@@ -42,3 +42,5 @@ fields:
   default: post
   config:
     required: true
+pages:
+- src/pages/posts/delete-my-comrades-marathon-race-day-story.md
