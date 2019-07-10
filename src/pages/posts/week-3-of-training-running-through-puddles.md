@@ -3,7 +3,7 @@ template: post
 title: 'WEEK 3 OF TRAINING: RUNNING THROUGH PUDDLES'
 subtitle: ''
 date: 2019-01-24T08:00:00Z
-thumb_img_path: ''
+thumb_img_path: "/images/4.png"
 content_img_path: ''
 excerpt: The long run this week was a lot of fun!
 hide_header: false
