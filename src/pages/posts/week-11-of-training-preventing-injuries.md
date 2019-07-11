@@ -1,11 +1,12 @@
 ---
 template: post
 title: 'WEEK 11 OF TRAINING: PREVENTING INJURIES'
-subtitle: This week has honestly been really hard as far as training goes.
+subtitle: ''
 date: 2019-03-11T07:00:00Z
 thumb_img_path: "/images/11.png"
 content_img_path: ''
-excerpt: ''
+excerpt: My right calf has felt strained and I have had to pull back on my runs more
+  than I would like.
 hide_header: false
 
 ---
