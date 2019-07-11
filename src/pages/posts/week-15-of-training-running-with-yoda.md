@@ -5,7 +5,8 @@ subtitle: ''
 date: 2019-04-27T07:00:00Z
 thumb_img_path: "/images/15.png"
 content_img_path: ''
-excerpt: ''
+excerpt: This weekend I had one of the biggest disappointments in my training so far.
+  But it also turned into something that I really needed, mental fortitude.
 hide_header: false
 
 ---
