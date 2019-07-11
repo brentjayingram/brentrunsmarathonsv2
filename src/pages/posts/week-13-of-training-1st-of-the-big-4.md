@@ -5,7 +5,7 @@ subtitle: ''
 date: 2019-04-13T07:00:00Z
 thumb_img_path: "/images/13.png"
 content_img_path: ''
-excerpt: ''
+excerpt: This was the first of the big 4 back 2 back weekends.
 hide_header: false
 
 ---

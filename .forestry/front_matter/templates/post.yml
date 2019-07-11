@@ -43,10 +43,10 @@ fields:
   config:
     required: true
 pages:
+- src/pages/posts/week-13-of-training-1st-of-the-big-4.md
 - src/pages/posts/week-14-of-training-rolling-an-ankle.md
 - src/pages/posts/week-3-of-training-running-through-puddles.md
 - src/pages/posts/week-6-of-training-crazy-rain.md
-- src/pages/posts/week-13-of-training-1st-of-the-big-4.md
 - src/pages/posts/week-12-of-training-la-marathon.md
 - src/pages/posts/week-11-of-training-preventing-injuries.md
 - src/pages/posts/week-10-crashing-an-80-s-10k.md
