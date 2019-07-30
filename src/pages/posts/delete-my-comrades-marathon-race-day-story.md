@@ -2,7 +2,7 @@
 template: post
 title: MY COMRADES MARATHON RACE DAY STORY
 subtitle: ''
-date: 2019-06-29T07:00:00Z
+date: 2019-07-30T07:00:00Z
 thumb_img_path: "/images/17.png"
 content_img_path: ''
 excerpt: ''
@@ -79,7 +79,7 @@ At least that's what the people who actually finish do.
 
 No one asks how fast you ran Comrades, the question is how many times have you done it?
 
-## **Another important aspect of an ultra marathon is nutrition.** 
+## **Another important aspect of an ultra marathon is nutrition.**
 
 An ultra marathon is basically an eating contest with a bit of running in between. You have to eat so much, otherwise you'll probably crash.
 
@@ -169,4 +169,4 @@ I probably projectile vomited 4 times, but felt so much better after.
 
 After that, Team World Vision's tradition is to go to McDonald's.
 
-Nothing was as fulfilling as that burger and fries that night. It was the bow on top of a pretty perfect day.
+Nothing was as fulfilling as that burger and fries that night. It was the bow on top of a pretty painful and perfect day.
