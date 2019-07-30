@@ -5,7 +5,7 @@ subtitle: A Painful and Perfect Day
 date: 2019-07-30T07:00:00Z
 thumb_img_path: "/images/17.png"
 content_img_path: ''
-excerpt: ''
+excerpt: Throughout the run there were multiple times when I wanted to quit...
 hide_header: false
 
 ---
