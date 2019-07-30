@@ -27,7 +27,7 @@ One of the best songs ever written,"Shosholoza" played and everyone knew the wor
 
 It's deeply a part of their culture. Even Nelson Mandela, when he was imprisoned in a labor camp, would sing this song to help pass by the time.
 
-[https://youtu.be/fGf56IhVK1U](https://youtu.be/fGf56IhVK1U "Watch 19,000 people sing Shosholoza")
+**You can see 19,000 people singing Shosholoza here:** [https://youtu.be/fGf56IhVK1U](https://youtu.be/fGf56IhVK1U "Watch 19,000 people sing Shosholoza")
 
 There were people who arrived late and were trying to cut in front of the group. They were even climbing over the side fences to get in until security told them to stop.
 
