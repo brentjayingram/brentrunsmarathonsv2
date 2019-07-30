@@ -1,7 +1,7 @@
 ---
 template: post
 title: MY COMRADES MARATHON RACE DAY STORY
-subtitle: ''
+subtitle: A Painful and Perfect Day
 date: 2019-07-30T07:00:00Z
 thumb_img_path: "/images/17.png"
 content_img_path: ''
