@@ -9,6 +9,8 @@ excerpt: Throughout the run there were multiple times when I wanted to quit...
 hide_header: false
 
 ---
+![](/images/17.png)
+
 I woke up at 3:30 in the morning and put on my running clothes. I was really nervous for this day. Luckily I wasn't too nervous to not enjoy breakfast.
 
 I went downstairs and the breakfast area was packed! You saw jerseys of every bright color there is, orange, pink, blue and green. Hairy legs in short running shorts were everywhere!
