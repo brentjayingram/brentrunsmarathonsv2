@@ -3,13 +3,12 @@ template: post
 title: MY COMRADES MARATHON RACE DAY STORY
 subtitle: A Painful and Perfect Day
 date: 2019-07-30T07:00:00Z
-thumb_img_path: "/images/17.png"
+thumb_img_path: "/images/comrades marathon.png"
 content_img_path: ''
 excerpt: Throughout the run there were multiple times when I wanted to quit...
 hide_header: false
 
 ---
-![](/images/17.png)
 
 I woke up at 3:30 in the morning and put on my running clothes. I was really nervous for this day. Luckily I wasn't too nervous to not enjoy breakfast.
 
