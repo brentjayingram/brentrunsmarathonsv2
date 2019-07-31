@@ -7,6 +7,8 @@ import HeaderAlt from '../components/HeaderAlt';
 import Header from '../components/Header';
 import {htmlToReact} from '../utils';
 import Footer from '../components/Footer';
+import Helmet from "react-helmet";
+
 
 export default class Post extends React.Component {
     render() {
@@ -17,6 +19,9 @@ export default class Post extends React.Component {
                : 
                 <Header {...this.props} site={this.props.pageContext.site} page={this.props.pageContext} img_path={_.get(this.props, 'pageContext.frontmatter.content_img_path')} />
               }
+          <Helmet>
+            <meta name="og:image" content={_.get(this.props, 'pageContext.frontmatter.thumb_img_path')} />
+          </Helmet>
               <div id="content" className="site-content">
                 <main id="main" className="site-main inner">
                   <article className="post post-full">
