@@ -17,6 +17,8 @@ Everyone was fueling up for the long day ahead of us.
 
 I had some scrambled eggs and potatoes. Really hearty stuff. After that my team took some group photos in the lobby of our hotel.
 
+![](/images/IMG_7050.JPG)
+
 We got on a bus and were dropped off near the starting line.
 
 We had get through the crowd of thousands of people to get to our assigned place towards the front.
@@ -103,6 +105,8 @@ Our team leader, Josh, showed up and showed me some stretches to open up my hip 
 
 I was able to run smoother after that.
 
+![](/images/20190609_115509.jpg)
+
 ## **I then ran into my roommate and he was cramping really bad.**
 
 I prayed for him and we both went and got roadside massages and the massage therapist applied icy hot on them. It felt like heaven!
@@ -141,7 +145,7 @@ I saw the 11:30:00 group with their pacers and stuck with them for a while, but 
 
 The last 2KM I decided to give all I had left and ran as fast I could to try and get 11:30.
 
-I ran hard.
+I ran hard. And reminded myself why I was doing this. It was for kids to get sponsored.
 
 **"I. Don't. Stop."**
 
@@ -154,6 +158,8 @@ I made it into the stadium for the last 400M. Time on the clock was 11:28:30 sec
 I saw my friends and team mates cheering for me as I entered and pushed myself as hard as I could go with the little bit of energy and strength I had left in me and finished at **11:30:52** seconds.
 
 From there I received the tiniest, most beautiful medal that I will always cherish.
+
+![](/images/20190609_175150.jpg)
 
 I walked over to my friends who had finished and were cheering on the remaining runners.
 
@@ -169,8 +175,18 @@ My stomach didn't feel good at all and I had to run and throw up the apple in th
 
 I probably projectile vomited 4 times, but felt so much better after.
 
+![](/images/IMG_7136 (1).JPG)
+
 After that, Team World Vision's tradition is to go to McDonald's.
 
 Nothing was as fulfilling as that burger and fries that night. It was the bow on top of a pretty painful and perfect day.
 
-(My team as of today are really close to getting 300 kids sponsored! If you would like to sponsor a child click [here!](https://www.teamworldvision.org/participant/brentingram))
+**If you were inspired by my story would you consider sponsoring a child?** 
+
+**My team is really close to getting 300 kids sponsored!** 
+
+## **If you would like to sponsor a child click** [**here!**](https://www.teamworldvision.org/participant/brentingram)
+
+**Thank you!,**
+
+**Brent Ingram**
