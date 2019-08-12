@@ -44,8 +44,10 @@ fields:
     required: true
 pages:
 - src/pages/posts/my-comrades-marathon-race-day-story.md
-- src/pages/posts/week-13-of-training-1st-of-the-big-4.md
 - src/pages/posts/week-11-of-training-preventing-injuries.md
+- src/pages/posts/week-5-of-training-when-you-lose-your-flow.md
+- src/pages/posts/week-4-of-training-that-one-time-i-got-chased-by-5-dogs.md
+- src/pages/posts/week-13-of-training-1st-of-the-big-4.md
 - src/pages/posts/week-14-of-training-rolling-an-ankle.md
 - src/pages/posts/week-3-of-training-running-through-puddles.md
 - src/pages/posts/week-6-of-training-crazy-rain.md
@@ -56,6 +58,4 @@ pages:
 - src/pages/posts/why-i-m-running-a-54-mile-long-marathon.md
 - src/pages/posts/week-15-of-training-running-with-yoda.md
 - src/pages/posts/week-7-of-training-making-new-friends-and-seeing-old-friends.md
-- src/pages/posts/week-5-of-training-when-you-lose-your-flow.md
-- src/pages/posts/week-4-of-training-that-one-time-i-got-chased-by-5-dogs.md
 - src/pages/posts/week-1-of-training.md
