@@ -21,7 +21,7 @@ I had some scrambled eggs and potatoes. Really hearty stuff. After that my team 
 
 We got on a bus and were dropped off near the starting line.
 
-We had get through the crowd of thousands of people to get to our assigned place towards the front.
+We had to get through the crowd of thousands of people to get to our assigned place towards the front.
 
 Despite it being 5 in the morning, it was a little warm with all of the people around us. And the air was thick with electricity and anticipation.
 
