@@ -172,3 +172,5 @@ I probably projectile vomited 4 times, but felt so much better after.
 After that, Team World Vision's tradition is to go to McDonald's.
 
 Nothing was as fulfilling as that burger and fries that night. It was the bow on top of a pretty painful and perfect day.
+
+(My team as of today are really close to getting 300 kids sponsored! If you would like to sponsor a child click [here!](https://www.teamworldvision.org/participant/brentingram))
