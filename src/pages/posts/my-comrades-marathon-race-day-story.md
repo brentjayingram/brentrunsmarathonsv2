@@ -159,8 +159,6 @@ I saw my friends and team mates cheering for me as I entered and pushed myself a
 
 From there I received the tiniest, most beautiful medal that I will always cherish.
 
-![](/images/20190609_175150.jpg)
-
 I walked over to my friends who had finished and were cheering on the remaining runners.
 
 I collapsed on the grass. It felt so good to lay down after running for almost 12 hours straight.
@@ -175,15 +173,13 @@ My stomach didn't feel good at all and I had to run and throw up the apple in th
 
 I probably projectile vomited 4 times, but felt so much better after.
 
-![](/images/IMG_7136 (1).JPG)
-
 After that, Team World Vision's tradition is to go to McDonald's.
 
 Nothing was as fulfilling as that burger and fries that night. It was the bow on top of a pretty painful and perfect day.
 
-**If you were inspired by my story would you consider sponsoring a child?** 
+**If you were inspired by my story would you consider sponsoring a child?**
 
-**My team is really close to getting 300 kids sponsored!** 
+**My team is really close to getting 300 kids sponsored!**
 
 ## **If you would like to sponsor a child click** [**here!**](https://www.teamworldvision.org/participant/brentingram)
 
