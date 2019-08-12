@@ -179,6 +179,8 @@ After that, Team World Vision's tradition is to go to McDonald's.
 
 Nothing was as fulfilling as that burger and fries that night. It was the bow on top of a pretty painful and perfect day.
 
+![](/images/Finishers.JPG)
+
 **If you were inspired by my story would you consider sponsoring a child?**
 
 **My team is really close to getting 300 kids sponsored!**
