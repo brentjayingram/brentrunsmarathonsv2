@@ -157,7 +157,9 @@ I made it into the stadium for the last 400M. Time on the clock was 11:28:30 sec
 
 I saw my friends and team mates cheering for me as I entered and pushed myself as hard as I could go with the little bit of energy and strength I had left in me and finished at **11:30:52** seconds.
 
-From there I received the tiniest, most beautiful medal that I will always cherish.
+From there I received the tiniest, size of a quarter, most beautiful medal that I will always cherish.
+
+![](/images/Tiny Medal.jpg)
 
 I walked over to my friends who had finished and were cheering on the remaining runners.
 
